@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @kamalesh
-- 🌱 I’m a Designer & Developer
-- 👀 I’m always looking to learn new things
-- 📫 How to reach me ...mail:kamalesh5112000@gmail.com tel: +917598383120
+- Hello there! I'm an enthusiastic learner with an unwavering passion for all things technical. 
 
+- My superpower? Hardworking with a positive attitude that fuels my adaptability in any
+situation. 
+
+- On the lookout for a full-time role that not only challenges me but also lets me showcase my technical prowess, top-notch time management, and problem-solving skills. 
+
+- Let's make the professional journey as exciting as the learning process!
+- 📫 How to reach me ...mail:kamalesh5112000@gmail.com tel: +917598383120
 
 
 <!---
